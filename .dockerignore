@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Git
+.git
+.gitignore
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs
+*.log

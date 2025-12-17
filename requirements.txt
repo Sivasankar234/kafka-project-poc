@@ -1,0 +1,5 @@
+google-cloud-storage
+python-dotenv
+google-cloud-pubsub
+confluent-kafka>=2.0.0
+

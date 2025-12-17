@@ -1,0 +1,13 @@
+2025-12-16 15:16:15,502 | INFO | KafkaConsumer | KAFKA_BOOTSTRAP_SERVERS: bootstrap.innovaccer-test.us-central1.managedkafka.project-siva-481407.cloud.goog:9092
+2025-12-16 15:16:15,502 | INFO | KafkaConsumer | KAFKA_GROUP_ID: None
+2025-12-16 15:16:15,502 | INFO | KafkaConsumer | KAFKA_TOPIC: None
+2025-12-16 15:17:37,663 | INFO | KafkaConsumer | KAFKA_BOOTSTRAP_SERVERS: bootstrap.innovaccer-test.us-central1.managedkafka.project-siva-481407.cloud.goog:9092
+2025-12-16 15:17:37,664 | INFO | KafkaConsumer | KAFKA_GROUP_ID: None
+2025-12-16 15:17:37,664 | INFO | KafkaConsumer | KAFKA_TOPIC: None
+2025-12-16 15:17:49,949 | INFO | KafkaConsumer | KAFKA_BOOTSTRAP_SERVERS: bootstrap.innovaccer-test.us-central1.managedkafka.project-siva-481407.cloud.goog:9092
+2025-12-16 15:17:49,949 | INFO | KafkaConsumer | KAFKA_GROUP_ID: email-notification-group
+2025-12-16 15:17:49,949 | INFO | KafkaConsumer | KAFKA_TOPIC: innovaccer_kafka_topic
+2025-12-16 15:17:49,978 | INFO | KafkaConsumer | Kafka Consumer initialized
+2025-12-16 15:17:49,978 | INFO | KafkaConsumer | Starting Kafka consumer...
+2025-12-16 15:18:17,483 | INFO | KafkaConsumer | Kafka Consumer initialized
+2025-12-16 15:18:17,483 | INFO | KafkaConsumer | Starting Kafka consumer...
